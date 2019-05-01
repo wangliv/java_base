@@ -19,10 +19,7 @@ public class ExampleTest {
         }
     }
 
-    /**
-     * 这是一个问题我也不知道
-     */
     private static void say() {
-        System.out.println("hello world");
+        System.out.println("hello world i want to do this");
     }
 }
